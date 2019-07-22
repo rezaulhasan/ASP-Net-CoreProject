@@ -1,0 +1,8 @@
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.deps.json
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.pdb
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Core.AssemblyInfoInputs.cache
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Core.AssemblyInfo.cs
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Core.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Core\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Core.pdb

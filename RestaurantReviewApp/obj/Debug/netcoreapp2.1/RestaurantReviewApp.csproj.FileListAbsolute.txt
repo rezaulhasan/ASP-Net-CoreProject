@@ -30,3 +30,8 @@ C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\obj\Debug\n
 C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\obj\Debug\netcoreapp2.1\RestaurantReviewApp.dll
 C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\obj\Debug\netcoreapp2.1\RestaurantReviewApp.pdb
 C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\obj\Debug\netcoreapp2.1\RestaurantReviewApp.csproj.CopyComplete
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurant\List.g.cshtml.cs
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Data.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.pdb
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReviewApp\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Data.pdb

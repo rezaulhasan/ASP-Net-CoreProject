@@ -1,0 +1,12 @@
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Data.deps.json
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Data.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Data.pdb
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.csprojAssemblyReference.cache
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.AssemblyInfoInputs.cache
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.AssemblyInfo.cs
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.pdb
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.dll
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\bin\Debug\netcoreapp2.1\RestaurantReviewApp.Core.pdb
+C:\Users\Shahin\Source\Repos\RestaurantReviewApp\RestaurantReview.Data\obj\Debug\netcoreapp2.1\RestaurantReviewApp.Data.csproj.CopyComplete
